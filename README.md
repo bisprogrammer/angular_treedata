@@ -1,5 +1,6 @@
 # MyApp
-Клонируем репозиторий https://github.com/bisprogrammer/angular_treedata.git
 Запустить командную строку в my-app
+## Npm packages
 Выполнить команду: npm i
+### Run project
 Выполнить команду: ng serve --open
